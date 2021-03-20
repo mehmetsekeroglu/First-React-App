@@ -6,8 +6,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      
-        <h2>Input Format</h2>
+      <h2>Input Format</h2>
 <p>First line contain <strong><em class="timesnewromans">N.N</em></strong> lines follow, each having a PAN nummer.</p>
 <h2>Constrains</h2>
 <ul>
@@ -19,8 +18,6 @@ function App() {
 </ul>
 <h2>Output Format</h2>
 <p>For every PAN number listed, print YES if it is valid and NO if it isn't.</p>
-        
-      
     </div>
   );
 }
